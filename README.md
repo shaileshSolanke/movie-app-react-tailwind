@@ -24,7 +24,7 @@ A React-based web application that allows users to browse and search for movies 
 
 ## Demo
 
-Check out a live demo of the app [here](https://shaileshsolanke-movie-app.netlify.app/) (Replace with your live link if hosted).
+Check out a live demo of the app [here](https://shaileshsolanke-movie-app.netlify.app/).
 
 ## Preview
 
